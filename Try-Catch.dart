@@ -6,3 +6,5 @@ void main() {
     print("Division impossible");
   }
 }
+
+// Réponse à la question 3
